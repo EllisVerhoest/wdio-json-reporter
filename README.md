@@ -1,3 +1,5 @@
+This repo updates the JSON reporter to be compatible with WDIOV8.
+
 WDIO JSON Reporter
 ===================
 
@@ -14,6 +16,7 @@ There are breaking changes between WDIO v4 and v5 with how custom reporters work
 | ^1.0.0             | v5   |
 | ^2.0.0             | v6   |
 | ^3.0.0             | v7   |
+| ^3.0.0             | v8?  |
 
 
 
